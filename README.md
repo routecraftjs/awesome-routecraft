@@ -6,7 +6,7 @@
 
   <p><strong>Tools for agents. Or the agent harness itself.</strong></p>
 
-  <p>A curated list of resources for <a href="https://routecraft.dev">Routecraft</a>, the type-safe framework for AI automation. Build the tools an agent uses, or the agent itself, with the same fluent DSL.</p>
+  <p>A curated list of resources for <a href="https://routecraft.dev">Routecraft</a>, the open source AI automation platform your teams build on together. Build the capabilities an agent uses, or the agent itself, with the same fluent DSL.</p>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## Official resources
 
-- [Routecraft](https://github.com/routecraftjs/routecraft) - The core framework, monorepo, and documentation source.
+- [Routecraft](https://github.com/routecraftjs/routecraft) - The platform itself: the monorepo and the documentation source.
 - [Documentation](https://routecraft.dev) - Guides, reference, and examples.
 - [Blog](https://routecraft.dev/blog/) - Articles and release notes.
 - [Changelog](https://routecraft.dev/changelog/) - What landed in each release, including what is still in development.
